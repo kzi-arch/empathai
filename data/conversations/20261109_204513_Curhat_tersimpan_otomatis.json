@@ -1,0 +1,50 @@
+{
+  "title": "Curhat tersimpan otomatis",
+  "timestamp": "2026-11-09T20:42:42.284250",
+  "persona": "empat",
+  "summary": "",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hari ini berat banget, aku nggak tahu harus mulai dari mana.",
+      "kind": "text",
+      "ts": "2026-11-09T20:42:44.672395",
+      "rating": null
+    },
+    {
+      "role": "user",
+      "content": "Hari ini berat banget, aku nggak tahu harus mulai dari mana.",
+      "kind": "text",
+      "ts": "2026-11-09T20:42:44.747632",
+      "rating": null
+    },
+    {
+      "role": "assistant",
+      "content": "Wajar banget kalau kamu merasa bingung, pasti rasanya capek dan menguras energi banget ya hari ini. Nggak apa-apa kok, kamu nggak harus buru-buru merapikan semua pikiran itu sekarang. Aku di sini siap mendengarkan kapan pun kamu siap. Pelan-pelan aja, ada satu hal kecil yang lagi paling terasa mengganjal yang mau kamu ceritakan dulu?",
+      "kind": "text",
+      "ts": "2026-11-09T20:43:05.103616",
+      "rating": null
+    },
+    {
+      "role": "user",
+      "content": "aku rasanya pengen bundir",
+      "kind": "text",
+      "ts": "2026-11-09T20:43:30.747696",
+      "rating": null
+    },
+    {
+      "role": "user",
+      "content": "aku rasanya pengen bundir",
+      "kind": "text",
+      "ts": "2026-11-09T20:43:30.748507",
+      "rating": null
+    },
+    {
+      "role": "assistant",
+      "content": "Aku bisa merasakan betapa luar biasa berat dan sakitnya hal yang lagi kamu tanggung saat ini, sampai rasanya ingin menyerah. Tolong ingat kalau kamu nggak harus melewati masa-masa kelam ini sendirian. \n\nJika rasanya makin tak tertahankan, tolong banget hubungi layanan darurat kesehatan jiwa di 119 (ekstensi 8) atau Lisa Helpline di 08113855472 untuk mendapat bantuan segera. Aku di sini menemani kamu, maukah kamu bertahan sebentar dan cerita pelan-pelan padaku?",
+      "kind": "text",
+      "ts": "2026-11-09T20:43:43.109769",
+      "rating": null
+    }
+  ]
+}
